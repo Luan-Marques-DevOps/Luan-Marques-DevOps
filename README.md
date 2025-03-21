@@ -3,11 +3,15 @@
 - 🔭 Hoje eu trabalho como suporte de T.I.
 - 🌱 Estou em uma jornada para me tornar um engenheiro DevOps altamente qualificado. Atualmente, estou me dedicando ao estudo de tecnologias essenciais para automação, infraestrutura como código e entrega contínua. Tenho o objetivo de aplicar as melhores práticas para otimizar processos, garantir a escalabilidade e melhorar a eficiência dos sistemas, sempre focado em transformar o ciclo de vida do desenvolvimento de software. Estou comprometido em me tornar um profissional de excelência na área de DevOps.
 
+</br>
+
 <div>
   <a href="https://github.com/Luan-Marques-DevOps">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luan-Marques-DevOps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Marques-DevOps&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Luan-Marques-DevOps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Marques-DevOps&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
+
+</br>
 
 ## Estudando
 
