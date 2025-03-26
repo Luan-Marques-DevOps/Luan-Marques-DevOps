@@ -31,3 +31,9 @@
   <a href="https://app.rocketseat.com.br/me/luan-marques-dev" target="_blank"><img src="https://img.shields.io/badge/-Rocketseat-%2304D361?style=for-the-badge&logo=rocketseat&logoColor=white" target="_blank"></a>
 </div>
 
+## Meu GitHub antigo
+<div>
+  <a href="https://github.com/LuanMarques-Dev" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div>
+
+
